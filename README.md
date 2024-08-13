@@ -1,5 +1,6 @@
 # simple-RNN
-In this repo, I have tried to create a simple RNN model on the imdb dataset that is available in keras
+## Sentiment Analysis
+In this repo, I have tried to create a simple RNN model for sentiment Analysis on the imdb dataset that is available in keras
 ### Model
 The way model is trained is available in simple-rnn.ipynb file
 ### Saving the model
